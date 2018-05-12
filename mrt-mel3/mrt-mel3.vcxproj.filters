@@ -21,12 +21,15 @@
     <ClInclude Include="targetver.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
+    <ClInclude Include="mrt-mel3.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="stdafx.cpp">
+    <ClCompile Include="mrt-mel3.c">
       <Filter>Quelldateien</Filter>
     </ClCompile>
-    <ClCompile Include="mrt-mel3.cpp">
+    <ClCompile Include="stdafx.c">
       <Filter>Quelldateien</Filter>
     </ClCompile>
   </ItemGroup>
