@@ -26,10 +26,10 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="stdafx.cpp">
+    <ClCompile Include="MultimeterEmulator.c">
       <Filter>Quelldateien</Filter>
     </ClCompile>
-    <ClCompile Include="MultimeterEmulator.cpp">
+    <ClCompile Include="stdafx.c">
       <Filter>Quelldateien</Filter>
     </ClCompile>
   </ItemGroup>
